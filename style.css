@@ -33,7 +33,7 @@ h1 {
 }
 
 .menu-container {
-    display: none; /* Initially hidden */
+    display: none;
     flex-wrap: wrap;
     justify-content: space-around;
 }
@@ -91,7 +91,7 @@ img {
     right: 20px;
     border-radius: 10px;
     padding: 10px;
-    background-color: rgba(53, 52, 52, 0.8); /* Solid background for readability */
+    background-color: rgba(53, 52, 52, 0.8);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
     transition: max-height 0.5s ease-in-out;
     overflow: hidden;
